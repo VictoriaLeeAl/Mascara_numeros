@@ -11,5 +11,8 @@ Escribe un programa que lea una secuencia de 10 números enteros y despliegue en
 ### Restricciones del programa
 El programa debe contener un método de nombre getMask que regrese como resultado la cadena de caracteres que contiene la máscara.
 
+### Tecnologías que se utilizaron:
+**JAVA**
+
 ### El programa debe presentar una pantalla como la siguiente al momento de ser compilado: 
 ![Demo](imagenes/mascara.PNG)
